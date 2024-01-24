@@ -1,0 +1,9 @@
+twoPhaseMixtureI/twoPhaseMixtureI.C
+phaseChangeTwoPhaseMixtures/phaseChangeTwoPhaseMixture/phaseChangeTwoPhaseMixture.C
+phaseChangeTwoPhaseMixtures/phaseChangeTwoPhaseMixture/newPhaseChangeTwoPhaseMixture.C
+phaseChangeTwoPhaseMixtures/Lee/Lee.C
+phaseChangeTwoPhaseMixtures/Hardt/Hardt.C
+phaseChangeTwoPhaseMixtures/Constant/Constant.C
+phaseChangeHeatFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/phaseChangeHeatFoam

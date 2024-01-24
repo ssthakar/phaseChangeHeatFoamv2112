@@ -1,0 +1,1 @@
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/libNusseltNumber_cccbb51f72797da98bfe2d37f220c5dd4241c6a9
